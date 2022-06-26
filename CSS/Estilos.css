@@ -7,11 +7,21 @@ body {
     padding: 0;
 }
 
+#Cabecera {
+    background: #aaf;
+    color: black;
+    box-shadow: 0px 5px 30px 0px  rgba(red, green, blue, alpha);
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 0,5em;
+}
+
 
 #container {
 
     width: 70%;
-    padding: 1em; 
+    padding: 0; 
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -22,5 +32,10 @@ body {
 #container h1 {
 
     font-size: 20px;
+
+}
+
+#post {
+
 
 }
