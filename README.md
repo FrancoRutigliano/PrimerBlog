@@ -1,2 +1,2 @@
 # PrimerBlog
-Primer blog (extremadamente báscico) para probar las funcionalidades de git 
+Primer blog (extremadamente básico) para probar las funcionalidades de git 
